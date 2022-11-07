@@ -26,7 +26,14 @@ body {
   align-items: center;
 }
 
+.modal-close-button{
+  position:absolute;
+  top: 5px;
+  right: 20px;
+}
+
 .modal-card {
+  position: relative;
   padding: 3rem;
   background-color: white;
   border-radius: 10px;
